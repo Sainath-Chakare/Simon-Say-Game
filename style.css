@@ -1,0 +1,38 @@
+body{
+   text-align: center;
+}
+.container{
+   display: flex;
+   flex-direction: column;
+}
+.box{
+   display: flex;
+   justify-content: center;
+}
+.item{
+   height:180px;
+   width:180px;
+   background-color: aqua;
+   border:10px solid black;
+   border-radius: 20px;
+   margin: 15px;
+}
+
+.one{
+   background-color: #d95980;
+}
+.two{
+   background-color: #63aac0;
+}
+.three{
+   background-color: #f99b45;
+}
+.four{
+   background-color: #819ff9;
+}
+
+
+
+
+
+
